@@ -1,0 +1,6 @@
+# do not load source folder
+/source/
+/APP/Weights/
+/APP/backup/
+/APP/history/
+/APP/radioq_prompt.txt
